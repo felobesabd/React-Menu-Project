@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+}
+.color-body {
+    min-height: 100vh;
+    background-color: #f8f8f8;
+}
+.font {
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Almarai', sans-serif;
+    font-size: 20px;
+}
+.scenod-div {
+    min-height: 600px;
+    border-radius: 15px;
+    box-shadow: 1px 4px 4px 1px rgba(58, 58, 58, 0.25);
+}
+.line {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 5px;
+}
+.button-style {
+    /* padding: 12px 25px !important;
+    margin-top: 15px !important;
+    font-size: 20px !important;
+    font-weight: bold !important; */
+    width: 200px;
+    border-radius: 10px;
+    color: white;
+    background-color: #224f61;
+    margin-top: 12px;
+    padding: 8px;
+    border: none;
+}
+.image-style {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+/* .button-style-1 {
+    margin-right: -100px;
+}
+.button-style-2 {
+    margin-left: -100px;
+} */
+/* Third Project */
+.brand-color {
+    color: #B45B35;
+}
+.brand-color:hover {
+    color: white;
+    transition: all 0.5s ease-in-out;
+}
+.btn-search {
+    color: #B45B35;
+    border-radius: 3px solid #B45B35;
+    border-radius: 8px;
+    background-color: white;
+    border: none;
+    padding: 6px 12px;
+}
+.btn-search:hover {
+    color: white;
+    border-radius: 3px solid white;
+    background-color: #B45B35;
+    border-radius: 8px;
+    transition: all 0.5s ease-in-out;
+}
+.line {
+    height: 2px;
+    width: 170px;
+    border: 2px solid #B45B35;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.btn-category {
+    font-size: 18px;
+    letter-spacing: 0;
+    padding: 4px 8px;
+    border: 1px solid #B45B35;
+    transition: all 0.5s ease-in-out;
+}
+.btn-category:hover {
+    color: black;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 29px;
+    border-radius: 11px;
+    border: none;
+    background-color: #B45B35;
+}
+.image-food {
+    width: 200px !important;
+    height: 200px !important;
+    border-radius: 5px;
+}
